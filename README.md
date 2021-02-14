@@ -9,10 +9,12 @@ My name is Paweł Piątek. I am a frontend developer. I'm from Poland and I am c
 
 
 ## Examples of Work ⚙
+* Trainings App 🥇
 <p align="center">
   <img  src="https://github.com/pawelpiatekProjects/pawelpiatekProjects/blob/main/example1.gif" width=60%/>
  </p>
 
+* Schedule App 📅
 <p align="center">
   <img  src="https://github.com/pawelpiatekProjects/pawelpiatekProjects/blob/main/example2.gif" width=60%/>
  </p>
