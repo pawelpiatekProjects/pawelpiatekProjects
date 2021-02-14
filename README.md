@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Paweł Piątek. I am a frontend developer. I'm from Poland and I am currently work at Wasko S.A.
+
+### Technologies :computer:
+
 <!--
 **pawelpiatekProjects/pawelpiatekProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
