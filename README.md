@@ -18,6 +18,11 @@ My name is Paweł Piątek. I am a frontend developer. I'm from Poland and I am c
 <p align="center">
   <img  src="https://github.com/pawelpiatekProjects/pawelpiatekProjects/blob/main/example2.gif" width=60%/>
  </p>
+ 
+ * Movie Blog  🎥
+ <p align="center">
+  <img  src="https://github.com/pawelpiatekProjects/pawelpiatekProjects/blob/main/example3.gif" width=60%/>
+ </p>
 <!--
 **pawelpiatekProjects/pawelpiatekProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
