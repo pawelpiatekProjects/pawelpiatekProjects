@@ -1,8 +1,11 @@
-### Hi there 👋
+# Hi there 👋, I'm Paweł
 
 My name is Paweł Piątek. I am a frontend developer. I'm from Poland and I am currently work at Wasko S.A.
 
-### Technologies :computer:
+## Technologies :computer:
+* 💻 React.js, Angular
+* 🖥 HTML, CSS, JS
+* 🎨 Figma
 
 <!--
 **pawelpiatekProjects/pawelpiatekProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
