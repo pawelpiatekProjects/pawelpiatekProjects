@@ -2,7 +2,7 @@
 
 My name is Paweł Piątek. I am a frontend developer. I'm from Poland and I am currently work at Wasko S.A.
 
-## Technologies :computer:
+## Technologies 🛠
 * 💻 React.js, Angular
 * 🖥 HTML, CSS, JS
 * 🎨 Figma
