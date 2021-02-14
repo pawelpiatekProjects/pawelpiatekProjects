@@ -8,7 +8,7 @@ My name is Paweł Piątek. I am a frontend developer. I'm from Poland and I am c
 * 🎨 Figma
 
 
-<img src="https://github.com/pawelpiatekProjects/pawelpiatekProjects/pawelpiatekProjects/blob/master/ezgif.com-gif-maker.gif" width=256/>
+<img src="https://github.com/pawelpiatekProjects/pawelpiatekProjects/pawelpiatekProjects/blob/master/example1" width=256/>
 <!--
 **pawelpiatekProjects/pawelpiatekProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
