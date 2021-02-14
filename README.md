@@ -4,7 +4,7 @@ My name is Paweł Piątek. I am a frontend developer. I'm from Poland and I am c
 
 ## Technologies 🛠
 * 💻 React.js, Angular
-* 🖥 HTML, CSS, JS
+* 🖥 HTML, CSS, JS, TS
 * 🎨 Figma, Adobe Illustrator
 
 
